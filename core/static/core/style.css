@@ -1,0 +1,100 @@
+body{
+    background-color: #201c2b;
+}
+
+.gifka{
+    text-align: center;
+}
+
+#text_vs{
+    padding-top: 130px;
+    text-align: center;
+    font-family: "HP Simplified";
+    font-size: 70px;
+    color: white;
+}
+
+#home{
+    text-align: left;
+}
+
+#home_a{
+    font-size: 20px;
+    font-family: "HP Simplified";
+    text-decoration: none;
+    color: white;
+}
+
+
+#c1{
+    text-decoration: none;
+    color:white;
+}
+
+#c2{
+    text-decoration: none;
+    color:white;
+}
+
+#c1:hover{
+    border-bottom: 5px solid lightgray;
+}
+
+#c1:active{
+    text-decoration: none;
+    color:white;
+}
+
+#c2:hover{
+    border-bottom: 5px solid lightgray;
+}
+
+#c2:active{
+    text-decoration: none;
+    color:white;
+}
+.sp{
+    background: black;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.sp pre{
+
+    font-family: "HP Simplified";
+    font-size: 20px;
+    color: white;
+}
+
+
+
+.c1_p1{
+    font-family: "HP Simplified";
+    font-size: 20px;
+    color: white;
+    background: lightgray;
+}
+
+.c1_p2{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "HP Simplified";
+    font-size: 20px;
+    color: white;
+    background: darkgrey;
+}
+
+.c1_pre{
+    color: white;
+    font-family: "HP Simplified";
+    font-size: 20px;
+    background: black;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
